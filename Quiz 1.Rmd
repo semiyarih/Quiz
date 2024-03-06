@@ -1,0 +1,12 @@
+---
+title: "Quiz 1"
+author: "Jeff DeLaitsch"
+date: "2024-02-16"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
